@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Kevin, and I am a Computer Science student.
 <!--
 **kevinranpura/kevinranpura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
