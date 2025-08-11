@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="coding" width="170" src="[https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true]">
+<img align="center" alt="coding" width="170" src="[(https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg)?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true]">
 </p>
 <!--([https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true])-->
 
