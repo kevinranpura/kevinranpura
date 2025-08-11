@@ -1,11 +1,12 @@
-<p align="center">
+<!--<p align="center">
 <img align="center" alt="coding" width="170" src="[(https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg)]">
-</p>
+</p>-->
+
 <!--([https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true])-->
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kevin+Ranpura;I'm+a+Web+Developer...;%F0%9F%8E%A8+Computer+Engineer+;%F0%9F%90%A7Ml+Enthusiast+;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kevin+Ranpura;I'm+a+Web+Developer;&#128187+Computer+Engineer+;%F0%9F%90%A7Ml+Enthusiast+;Nice+to+meet+you+%F0%9F%98%8A%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kevinranpura&label=Profile%20views&color=5689f5&style=for-the-badge" alt="kevinranpura" /> 
 
